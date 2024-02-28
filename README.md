@@ -5,9 +5,9 @@ To use the stopwatch iOS app code:
 1. **Clone the Repository**:
    - Clone the repository to your local machine using Git:
      ```
-     git clone 
+     git clone https://github.com/bhushcodes/swift-stopwatch.git
      ```
-   - Replace `` with the URL of the repository.
+   - Replace `https://github.com/bhushcodes/swift-stopwatch.git` with the URL of the repository.
 
 2. **Open the Project in Xcode**:
    - Navigate to the project directory.
